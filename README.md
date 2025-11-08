@@ -76,7 +76,7 @@ cd ../client
 npm install
 npm start
 ```
-### Now open 👉 http://localhost:3000
+
 
 ## 📜 API Endpoints
 
@@ -103,3 +103,4 @@ POST /assign-developer → Assign developer to a project (Project Lead)
 
 ## 🌐 Deployment
  [ Vercel](https://pixel-nexus.vercel.app/)
+
